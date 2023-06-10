@@ -1,1 +1,2 @@
 Wow, isn't git fun?
+Update: Yes, it's so fun
